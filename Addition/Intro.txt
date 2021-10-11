@@ -1,0 +1,2 @@
+The Given Java Program Takes Two Number As A Input And add them 
+After That TheirResult is shown On Screen .
