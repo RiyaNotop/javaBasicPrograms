@@ -1,2 +1,1 @@
-# javaBasicPrograms
-HackToberfest
+hacktoberfest-accepted
